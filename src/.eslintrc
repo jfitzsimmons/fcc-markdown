@@ -1,0 +1,6 @@
+"overrides": [{
+  "files": [ "*.min.js" ],
+  "rules": {
+    "no-unused-expressions": 0
+  }
+}]
